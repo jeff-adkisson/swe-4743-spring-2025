@@ -482,7 +482,7 @@ Options
   /gm
 ```
 
-![image-20240728171141986](OO Design Project.assets/image-20240728171141986.png)
+![image-20240728171141986](README.assets/image-20240728171141986.png)
 
 The LLM may not respond as desired in every case. The steps to bind a response will likely need to be:
 
